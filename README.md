@@ -3,6 +3,7 @@ Overview
 This project is a Django-based Polls Administration System that allows users to create, manage, and vote on polls through an admin interface.
 
 Features
+
 User Authentication: Secure login/logout for administrators.
 Poll Management: Create, update, and delete polls and choices.
 Voting System: Users can vote on polls.
