@@ -25,12 +25,14 @@ Installation
    python manage.py runserver
 
 Usage
+
 Navigate to the admin panel and create polls.
 Add multiple choices to each poll.
 Users can visit the polls page and cast their votes.
 View real-time results of each poll.
 
 Technologies Used
+
 Django (Backend Framework)
 SQLite/PostgreSQL (Database)
 HTML/CSS (Frontend Styling)
