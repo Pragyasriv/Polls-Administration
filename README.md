@@ -35,5 +35,7 @@ View real-time results of each poll.
 Technologies Used
 
 Django (Backend Framework)
+
 SQLite/PostgreSQL (Database)
+
 HTML/CSS (Frontend Styling)
